@@ -1,21 +1,10 @@
-<<<<<<< HEAD
 do you breath the name
 of your saviour
 in your hour of need 
 and taste the blame if the flavour
-
-=======
-do you breath the name
-of your saviour
-in your hour of need 
-and taste the blame if the flavour
-
->>>>>>> d8a6b43238668dac43b8c8a97bda7e0c91582d65
 will remind you of greed
 
-i have added feature branch 
-
-i have added 2nd change in feature branch
-
-
 this text is in main fle for conflict resolution.
+
+this text is in feature branch for conflict resolution.
+
