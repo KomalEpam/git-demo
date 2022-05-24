@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 do you breath the name
 of your saviour
 in your hour of need 
 and taste the blame if the flavour
 
+=======
+do you breath the name
+of your saviour
+in your hour of need 
+and taste the blame if the flavour
+
+>>>>>>> d8a6b43238668dac43b8c8a97bda7e0c91582d65
 will remind you of greed
