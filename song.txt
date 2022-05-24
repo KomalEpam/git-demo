@@ -16,3 +16,6 @@ will remind you of greed
 i have added feature branch 
 
 i have added 2nd change in feature branch
+
+
+this text is in feature branch for conflict resolution.
